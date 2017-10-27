@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-## Curso de Laravel Passport | 2017
+## OAuth2 con Laravel Passport | 2017
 
 El objetivo de este curso es entender el comportamiento y el uso del protocolo de autorización OAuth2 usando Laravel Passport. Si aún no viste el curso te recomiendo mirarlo antes de descargar el repositorio para que puedas entender toda la implementación del código. He aquí el enlace: [Curso de Laravel Passport](https://www.youtube.com/channel/UCOoueCDkfLJZ-h_rpBVYyGw)
 
