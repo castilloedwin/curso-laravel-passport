@@ -10,14 +10,14 @@ El objetivo de este curso es entender el comportamiento y el uso del protocolo d
 # Clonar Repositorio del curso de Laravel Passport
 git clone https://github.com/castilloedwin/curso-laravel-passport.git
 
-# Generar Llave (Key)
-php artisan key:generate
-
 # Instalar Paquetes
 composer install
 
+# Generar Llave (Key)
+php artisan key:generate
+
 # Correr Migraciones
-php artisan migrate
+php artisan migrate --seed
 
 # Clonar Repositorio de Test API
 git clone https://github.com/castilloedwin/test-api-laravel-passport.git
